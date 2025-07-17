@@ -12,8 +12,12 @@ Python语言比较适合快速入门和学习知识。
 
 个人建议还是应当深入去学习一下C++，数量掌握内存操作技巧，以及通过学习数据结构和算法形成的逻辑思维方式。
 
-本书发布为四种格式，内容是完全一样：
-Jupyter Notebook
-HTML
-Word
-PDF
+本书发布为四种格式，内容是完全一样，Jupyter Notebook的代码直接在文档中，其他三个版本的代码在Code文件夹中。
+
+如果你阅读的不是Jupyter Notebook或者不了解他是什么，可以直接跳过书中关于它的部分。
+
+运行本书的代码，需要进行一下操作：
+1. 安装Visual Studio Code
+2. 按照Processing IDE要求，安装对应的JAVA虚拟环境，并配置JAVA_HOME系统变量
+3. 按照Py5的要求，安装对应Python版本，然后使用pip instal py5，安装Py5
+4. （可选）使用pip install notebook安装Jupyter Notebook
