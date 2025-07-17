@@ -1,3 +1,5 @@
+本书使用Jupyter Notebook编写，其他格式都是转换而来。
+
 本书分为上下两册，上册主要讲解Python面向对象程序设计，针对没有任何编程基础的读者，下册主要讲解Python在交互设计中的具体应用。
 
 本书使用的基础框架是Processing，Processing是以Java为基础的开发环境，但是考虑到后期还会引入Arduino和树莓派，以及未来人工智能编程，所以统一了语言选择Python。
